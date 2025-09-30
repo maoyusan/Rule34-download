@@ -1,0 +1,711 @@
+{
+  "scan_time": "2025-09-12T07:41:16.074040",
+  "download_directory": "downloads\\mightyniku",
+  "total_files": 78,
+  "total_size_bytes": 723541444,
+  "total_size_mb": 690.02,
+  "files": [
+    {
+      "filename": "006ac08d88382d67cc58f3135cdc90bb_14436660.mp4",
+      "filepath": "downloads\\mightyniku\\006ac08d88382d67cc58f3135cdc90bb_14436660.mp4",
+      "size": 6112570,
+      "size_mb": 5.83,
+      "modified_time": "2025-09-12T07:38:28.438737",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "019f0665486c687e2b267d1394de9959_9585736.mp4",
+      "filepath": "downloads\\mightyniku\\019f0665486c687e2b267d1394de9959_9585736.mp4",
+      "size": 349525,
+      "size_mb": 0.33,
+      "modified_time": "2025-09-12T07:40:26.812819",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "083026269a6bb0993067aec2e1e7fe59_12516721.mp4",
+      "filepath": "downloads\\mightyniku\\083026269a6bb0993067aec2e1e7fe59_12516721.mp4",
+      "size": 13733047,
+      "size_mb": 13.1,
+      "modified_time": "2025-09-12T07:40:45.059004",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "08dfb80ba40c8ea1d26048a521bf1956_12516794.mp4",
+      "filepath": "downloads\\mightyniku\\08dfb80ba40c8ea1d26048a521bf1956_12516794.mp4",
+      "size": 5457038,
+      "size_mb": 5.2,
+      "modified_time": "2025-09-12T07:39:47.592340",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "14976509a8b0d434065b81b455f1a42c_13207102.mp4",
+      "filepath": "downloads\\mightyniku\\14976509a8b0d434065b81b455f1a42c_13207102.mp4",
+      "size": 20373550,
+      "size_mb": 19.43,
+      "modified_time": "2025-09-12T07:38:58.307719",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "1497ec6596d22113a47a884146eae2ec_12516601.mp4",
+      "filepath": "downloads\\mightyniku\\1497ec6596d22113a47a884146eae2ec_12516601.mp4",
+      "size": 14576569,
+      "size_mb": 13.9,
+      "modified_time": "2025-09-12T07:39:28.526262",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "17630753d410227e94d11e7647ab8e01_14521475.mp4",
+      "filepath": "downloads\\mightyniku\\17630753d410227e94d11e7647ab8e01_14521475.mp4",
+      "size": 14055362,
+      "size_mb": 13.4,
+      "modified_time": "2025-09-12T07:38:10.517344",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "1d14128509eba31808082020b05fefef_12668408.mp4",
+      "filepath": "downloads\\mightyniku\\1d14128509eba31808082020b05fefef_12668408.mp4",
+      "size": 5990076,
+      "size_mb": 5.71,
+      "modified_time": "2025-09-12T07:39:14.967772",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "24c85368510d7cc7fe0035cc0b86fcb5_13475302.mp4",
+      "filepath": "downloads\\mightyniku\\24c85368510d7cc7fe0035cc0b86fcb5_13475302.mp4",
+      "size": 5602471,
+      "size_mb": 5.34,
+      "modified_time": "2025-09-12T07:37:57.296436",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "252613448565eea31cfa88f1b2dd97b4_13393011.mp4",
+      "filepath": "downloads\\mightyniku\\252613448565eea31cfa88f1b2dd97b4_13393011.mp4",
+      "size": 16786489,
+      "size_mb": 16.01,
+      "modified_time": "2025-09-12T07:38:16.782767",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "29b91c6ce2192e3f50850a670e6ed9e4_12516748.mp4",
+      "filepath": "downloads\\mightyniku\\29b91c6ce2192e3f50850a670e6ed9e4_12516748.mp4",
+      "size": 12837571,
+      "size_mb": 12.24,
+      "modified_time": "2025-09-12T07:39:42.931086",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "2d9916234bf2b2fb92c3cea5e049c875_12844575.mp4",
+      "filepath": "downloads\\mightyniku\\2d9916234bf2b2fb92c3cea5e049c875_12844575.mp4",
+      "size": 1835107,
+      "size_mb": 1.75,
+      "modified_time": "2025-09-12T07:37:51.773251",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "2fa3ec53e803f5f7171e4072d14df9ec_10383523.mp4",
+      "filepath": "downloads\\mightyniku\\2fa3ec53e803f5f7171e4072d14df9ec_10383523.mp4",
+      "size": 1141779,
+      "size_mb": 1.09,
+      "modified_time": "2025-09-12T07:39:27.471581",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "3298e4f6eef464f973eefd0bce0aecbe_10352165.mp4",
+      "filepath": "downloads\\mightyniku\\3298e4f6eef464f973eefd0bce0aecbe_10352165.mp4",
+      "size": 262117,
+      "size_mb": 0.25,
+      "modified_time": "2025-09-12T07:41:07.311436",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "33273099b905840a73ef8ee197843944_12651879.mp4",
+      "filepath": "downloads\\mightyniku\\33273099b905840a73ef8ee197843944_12651879.mp4",
+      "size": 16321521,
+      "size_mb": 15.57,
+      "modified_time": "2025-09-12T07:38:52.812264",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "33686369272229a6f9d11f8a5e589d62_11794375.mp4",
+      "filepath": "downloads\\mightyniku\\33686369272229a6f9d11f8a5e589d62_11794375.mp4",
+      "size": 16683701,
+      "size_mb": 15.91,
+      "modified_time": "2025-09-12T07:41:02.563382",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "38e34a4c3bc069a2e54b66099e9149a3_12516628.mp4",
+      "filepath": "downloads\\mightyniku\\38e34a4c3bc069a2e54b66099e9149a3_12516628.mp4",
+      "size": 14555643,
+      "size_mb": 13.88,
+      "modified_time": "2025-09-12T07:39:59.321927",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "411eb55f7888ff5e01f5f2a89cc3e0d1_13711483.mp4",
+      "filepath": "downloads\\mightyniku\\411eb55f7888ff5e01f5f2a89cc3e0d1_13711483.mp4",
+      "size": 5792570,
+      "size_mb": 5.52,
+      "modified_time": "2025-09-12T07:37:34.202008",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "461d3d3f94e4366d1bb5ec6052bc6e4e_12516925.mp4",
+      "filepath": "downloads\\mightyniku\\461d3d3f94e4366d1bb5ec6052bc6e4e_12516925.mp4",
+      "size": 2693755,
+      "size_mb": 2.57,
+      "modified_time": "2025-09-12T07:38:45.968583",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "468d73d8bbfdbcf71056f7bc9497bb5d_9930140.mp4",
+      "filepath": "downloads\\mightyniku\\468d73d8bbfdbcf71056f7bc9497bb5d_9930140.mp4",
+      "size": 3193531,
+      "size_mb": 3.05,
+      "modified_time": "2025-09-12T07:40:16.095083",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "489f951f7aeb144168c81c812c80b962_13318979.mp4",
+      "filepath": "downloads\\mightyniku\\489f951f7aeb144168c81c812c80b962_13318979.mp4",
+      "size": 2934106,
+      "size_mb": 2.8,
+      "modified_time": "2025-09-12T07:39:09.326898",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "48f6fdb6d17b1c43c88b123f4a7c8d42_14096271.mp4",
+      "filepath": "downloads\\mightyniku\\48f6fdb6d17b1c43c88b123f4a7c8d42_14096271.mp4",
+      "size": 5323599,
+      "size_mb": 5.08,
+      "modified_time": "2025-09-12T07:37:15.860288",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "4eb8b32cd86d1c2381f46a84b6f2930d_11553778.mp4",
+      "filepath": "downloads\\mightyniku\\4eb8b32cd86d1c2381f46a84b6f2930d_11553778.mp4",
+      "size": 5000768,
+      "size_mb": 4.77,
+      "modified_time": "2025-09-12T07:39:33.114618",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "51d705bc5e56d226b2ac9ef1c29c3636_12516911.mp4",
+      "filepath": "downloads\\mightyniku\\51d705bc5e56d226b2ac9ef1c29c3636_12516911.mp4",
+      "size": 1982216,
+      "size_mb": 1.89,
+      "modified_time": "2025-09-12T07:40:45.005759",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "5514efd88d244e52e7a9859fcd8140c2_13104863.mp4",
+      "filepath": "downloads\\mightyniku\\5514efd88d244e52e7a9859fcd8140c2_13104863.mp4",
+      "size": 3626733,
+      "size_mb": 3.46,
+      "modified_time": "2025-09-12T07:39:03.812943",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "5a95bdcc1379771161b52571451f2b7b_12516806.mp4",
+      "filepath": "downloads\\mightyniku\\5a95bdcc1379771161b52571451f2b7b_12516806.mp4",
+      "size": 3407951,
+      "size_mb": 3.25,
+      "modified_time": "2025-09-12T07:40:21.965132",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "5c12fb886294b13ea2a0c2eab531b170_13858408.mp4",
+      "filepath": "downloads\\mightyniku\\5c12fb886294b13ea2a0c2eab531b170_13858408.mp4",
+      "size": 15149053,
+      "size_mb": 14.45,
+      "modified_time": "2025-09-12T07:38:40.883242",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "5c6f47acfd3a6a25a812f940c45950e3_14096268.mp4",
+      "filepath": "downloads\\mightyniku\\5c6f47acfd3a6a25a812f940c45950e3_14096268.mp4",
+      "size": 6090196,
+      "size_mb": 5.81,
+      "modified_time": "2025-09-12T07:37:53.213745",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "5ef546fa062ee3a1e6d30b228c098ec8_14521491.mp4",
+      "filepath": "downloads\\mightyniku\\5ef546fa062ee3a1e6d30b228c098ec8_14521491.mp4",
+      "size": 6895240,
+      "size_mb": 6.58,
+      "modified_time": "2025-09-12T07:38:27.922038",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "6100096df33c7d2bdf34b3fb7b2df5e4_9881270.mp4",
+      "filepath": "downloads\\mightyniku\\6100096df33c7d2bdf34b3fb7b2df5e4_9881270.mp4",
+      "size": 5729187,
+      "size_mb": 5.46,
+      "modified_time": "2025-09-12T07:40:16.456205",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "61a962f99aa7c320749875b19e461a4f_12040359.mp4",
+      "filepath": "downloads\\mightyniku\\61a962f99aa7c320749875b19e461a4f_12040359.mp4",
+      "size": 16823083,
+      "size_mb": 16.04,
+      "modified_time": "2025-09-12T07:40:39.514513",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "64ac796559678f79b4cef9519e4d7d18_9499591.mp4",
+      "filepath": "downloads\\mightyniku\\64ac796559678f79b4cef9519e4d7d18_9499591.mp4",
+      "size": 5906415,
+      "size_mb": 5.63,
+      "modified_time": "2025-09-12T07:40:10.459697",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "657574ac324e8c3157af546c29d7b961_12516652.mp4",
+      "filepath": "downloads\\mightyniku\\657574ac324e8c3157af546c29d7b961_12516652.mp4",
+      "size": 4053086,
+      "size_mb": 3.87,
+      "modified_time": "2025-09-12T07:40:50.634464",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "679d1fa4401cd41c6084418983947aec_13056750.mp4",
+      "filepath": "downloads\\mightyniku\\679d1fa4401cd41c6084418983947aec_13056750.mp4",
+      "size": 5275249,
+      "size_mb": 5.03,
+      "modified_time": "2025-09-12T07:37:40.340587",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "68d7e41c38b8c1b87a1e9e2576d5ab61_13318945.mp4",
+      "filepath": "downloads\\mightyniku\\68d7e41c38b8c1b87a1e9e2576d5ab61_13318945.mp4",
+      "size": 10298894,
+      "size_mb": 9.82,
+      "modified_time": "2025-09-12T07:37:28.525178",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "6ccd5767c77a36068b253c0d2100121c_12516683.mp4",
+      "filepath": "downloads\\mightyniku\\6ccd5767c77a36068b253c0d2100121c_12516683.mp4",
+      "size": 9552171,
+      "size_mb": 9.11,
+      "modified_time": "2025-09-12T07:39:48.879909",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "6e8120aac5c61c149740d176740da96b_12516947.mp4",
+      "filepath": "downloads\\mightyniku\\6e8120aac5c61c149740d176740da96b_12516947.mp4",
+      "size": 1735099,
+      "size_mb": 1.65,
+      "modified_time": "2025-09-12T07:38:03.946628",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "74abd65d42fa99013226c76815097a7b_9581661.mp4",
+      "filepath": "downloads\\mightyniku\\74abd65d42fa99013226c76815097a7b_9581661.mp4",
+      "size": 591244,
+      "size_mb": 0.56,
+      "modified_time": "2025-09-12T07:40:05.243450",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "765196526902a524b94b6f66e83fa09a_9725794.mp4",
+      "filepath": "downloads\\mightyniku\\765196526902a524b94b6f66e83fa09a_9725794.mp4",
+      "size": 466316,
+      "size_mb": 0.44,
+      "modified_time": "2025-09-12T07:41:02.207084",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "88c5fc1b7308e5df6b7e4425ad0d8e2a_13370371.mp4",
+      "filepath": "downloads\\mightyniku\\88c5fc1b7308e5df6b7e4425ad0d8e2a_13370371.mp4",
+      "size": 4338856,
+      "size_mb": 4.14,
+      "modified_time": "2025-09-12T07:39:04.557638",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "8a92d92878164b4afaaca3185d76b4a9_13406161.mp4",
+      "filepath": "downloads\\mightyniku\\8a92d92878164b4afaaca3185d76b4a9_13406161.mp4",
+      "size": 861514,
+      "size_mb": 0.82,
+      "modified_time": "2025-09-12T07:37:35.011851",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "8f3de07afcba0c387b18cab2da43124d_12550252.mp4",
+      "filepath": "downloads\\mightyniku\\8f3de07afcba0c387b18cab2da43124d_12550252.mp4",
+      "size": 10625437,
+      "size_mb": 10.13,
+      "modified_time": "2025-09-12T07:37:16.315026",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "908eda10ae2a0e6fe08149f2c12c4c28_9930131.mp4",
+      "filepath": "downloads\\mightyniku\\908eda10ae2a0e6fe08149f2c12c4c28_9930131.mp4",
+      "size": 2508881,
+      "size_mb": 2.39,
+      "modified_time": "2025-09-12T07:40:56.236965",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "932eec375cb44ba93715b89e523d91b6_12743728.mp4",
+      "filepath": "downloads\\mightyniku\\932eec375cb44ba93715b89e523d91b6_12743728.mp4",
+      "size": 5646825,
+      "size_mb": 5.39,
+      "modified_time": "2025-09-12T07:38:09.609135",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "94e660441d82d230f8625fa4202dcb07_12516584.mp4",
+      "filepath": "downloads\\mightyniku\\94e660441d82d230f8625fa4202dcb07_12516584.mp4",
+      "size": 4859662,
+      "size_mb": 4.63,
+      "modified_time": "2025-09-12T07:40:27.604978",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "955bfc37b1fe8a406241eb1676f01594_13510622.mp4",
+      "filepath": "downloads\\mightyniku\\955bfc37b1fe8a406241eb1676f01594_13510622.mp4",
+      "size": 14965115,
+      "size_mb": 14.27,
+      "modified_time": "2025-09-12T07:37:58.600133",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "97a3997ff4d23f22dd3262a9d22d88b6_14096285.mp4",
+      "filepath": "downloads\\mightyniku\\97a3997ff4d23f22dd3262a9d22d88b6_14096285.mp4",
+      "size": 16110449,
+      "size_mb": 15.36,
+      "modified_time": "2025-09-12T07:37:22.097684",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "97b094d909f42fdc0157b40f47c8ce3d_12898975.mp4",
+      "filepath": "downloads\\mightyniku\\97b094d909f42fdc0157b40f47c8ce3d_12898975.mp4",
+      "size": 18020509,
+      "size_mb": 17.19,
+      "modified_time": "2025-09-12T07:38:34.728446",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "99bab2707f51d39b652886f752f52bd9_13824584.mp4",
+      "filepath": "downloads\\mightyniku\\99bab2707f51d39b652886f752f52bd9_13824584.mp4",
+      "size": 3751072,
+      "size_mb": 3.58,
+      "modified_time": "2025-09-12T07:38:46.521461",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "9b29a34d5b0a2065ceec947f1124bfe9_13626699.mp4",
+      "filepath": "downloads\\mightyniku\\9b29a34d5b0a2065ceec947f1124bfe9_13626699.mp4",
+      "size": 14728592,
+      "size_mb": 14.05,
+      "modified_time": "2025-09-12T07:39:16.121043",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "9bb93b58588fe57c2fc867c34d6ffc3e_12546326.mp4",
+      "filepath": "downloads\\mightyniku\\9bb93b58588fe57c2fc867c34d6ffc3e_12546326.mp4",
+      "size": 21153362,
+      "size_mb": 20.17,
+      "modified_time": "2025-09-12T07:38:04.301492",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "a2cb0cc47521ccbb04d458e334bc496d_14521498.mp4",
+      "filepath": "downloads\\mightyniku\\a2cb0cc47521ccbb04d458e334bc496d_14521498.mp4",
+      "size": 19532064,
+      "size_mb": 18.63,
+      "modified_time": "2025-09-12T07:37:41.519215",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "a5310a2c5bd89af7927cafc0cdbf8975_12034401.mp4",
+      "filepath": "downloads\\mightyniku\\a5310a2c5bd89af7927cafc0cdbf8975_12034401.mp4",
+      "size": 15759140,
+      "size_mb": 15.03,
+      "modified_time": "2025-09-12T07:40:57.016433",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "aae21f800f5e1b417e6183cd2f2e5987_12517064.mp4",
+      "filepath": "downloads\\mightyniku\\aae21f800f5e1b417e6183cd2f2e5987_12517064.mp4",
+      "size": 9556432,
+      "size_mb": 9.11,
+      "modified_time": "2025-09-12T07:38:51.882041",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "ab514e098f91ad34652efa64f86102b5_13413801.mp4",
+      "filepath": "downloads\\mightyniku\\ab514e098f91ad34652efa64f86102b5_13413801.mp4",
+      "size": 20653188,
+      "size_mb": 19.7,
+      "modified_time": "2025-09-12T07:38:22.034981",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "ae49218d4fedd54cfd8b171d0e4cf3b0_12458243.mp4",
+      "filepath": "downloads\\mightyniku\\ae49218d4fedd54cfd8b171d0e4cf3b0_12458243.mp4",
+      "size": 31418768,
+      "size_mb": 29.96,
+      "modified_time": "2025-09-12T07:39:35.879356",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "b16907336d8fff183adf3fb0db47cb0c_14203994.mp4",
+      "filepath": "downloads\\mightyniku\\b16907336d8fff183adf3fb0db47cb0c_14203994.mp4",
+      "size": 40240857,
+      "size_mb": 38.38,
+      "modified_time": "2025-09-12T07:37:29.792920",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "b24cb0d72627903ea98310ed646ddf5b_12705068.mp4",
+      "filepath": "downloads\\mightyniku\\b24cb0d72627903ea98310ed646ddf5b_12705068.mp4",
+      "size": 13971223,
+      "size_mb": 13.32,
+      "modified_time": "2025-09-12T07:39:10.773406",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "b3d0739bba48661a44900f90ffa20e54_12560221.mp4",
+      "filepath": "downloads\\mightyniku\\b3d0739bba48661a44900f90ffa20e54_12560221.mp4",
+      "size": 7433002,
+      "size_mb": 7.09,
+      "modified_time": "2025-09-12T07:38:22.769256",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "b70c40e3dd8f60ab31aae2c969e16f62_12516765.mp4",
+      "filepath": "downloads\\mightyniku\\b70c40e3dd8f60ab31aae2c969e16f62_12516765.mp4",
+      "size": 6364578,
+      "size_mb": 6.07,
+      "modified_time": "2025-09-12T07:40:33.283499",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "be34a4d6947e6541a204ffb8aca9ca76_12516626.mp4",
+      "filepath": "downloads\\mightyniku\\be34a4d6947e6541a204ffb8aca9ca76_12516626.mp4",
+      "size": 5563191,
+      "size_mb": 5.31,
+      "modified_time": "2025-09-12T07:39:53.535907",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "c2a2bf4b154e7939d05dfe6a3bfcfe81_12516686.mp4",
+      "filepath": "downloads\\mightyniku\\c2a2bf4b154e7939d05dfe6a3bfcfe81_12516686.mp4",
+      "size": 6018873,
+      "size_mb": 5.74,
+      "modified_time": "2025-09-12T07:40:50.718999",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "c2c4ef432bffff9b58bcfc9b0b6089fb_13298079.mp4",
+      "filepath": "downloads\\mightyniku\\c2c4ef432bffff9b58bcfc9b0b6089fb_13298079.mp4",
+      "size": 15523217,
+      "size_mb": 14.8,
+      "modified_time": "2025-09-12T07:37:48.017469",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "c45bf7bf196058823ff2f918bcb8d3e8_13000064.mp4",
+      "filepath": "downloads\\mightyniku\\c45bf7bf196058823ff2f918bcb8d3e8_13000064.mp4",
+      "size": 15582533,
+      "size_mb": 14.86,
+      "modified_time": "2025-09-12T07:37:22.547313",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "c93a2893c7d940f99094973aed386244_12501030.mp4",
+      "filepath": "downloads\\mightyniku\\c93a2893c7d940f99094973aed386244_12501030.mp4",
+      "size": 16352688,
+      "size_mb": 15.6,
+      "modified_time": "2025-09-12T07:40:33.048746",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "ccf6991d17490595b4c41f1cd798462f_12516903.mp4",
+      "filepath": "downloads\\mightyniku\\ccf6991d17490595b4c41f1cd798462f_12516903.mp4",
+      "size": 2684645,
+      "size_mb": 2.56,
+      "modified_time": "2025-09-12T07:39:37.870685",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "cedd7bde782319e6ca9af8dea73ae276_9881286.mp4",
+      "filepath": "downloads\\mightyniku\\cedd7bde782319e6ca9af8dea73ae276_9881286.mp4",
+      "size": 1682926,
+      "size_mb": 1.6,
+      "modified_time": "2025-09-12T07:40:38.648776",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "d3095f388542d9c06d7f981a8be48e48_12559512.mp4",
+      "filepath": "downloads\\mightyniku\\d3095f388542d9c06d7f981a8be48e48_12559512.mp4",
+      "size": 5840657,
+      "size_mb": 5.57,
+      "modified_time": "2025-09-12T07:38:40.383909",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "d48d4b06872d346729a9ecf6aede3494_10322700.mp4",
+      "filepath": "downloads\\mightyniku\\d48d4b06872d346729a9ecf6aede3494_10322700.mp4",
+      "size": 1881577,
+      "size_mb": 1.79,
+      "modified_time": "2025-09-12T07:40:04.805275",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "e1a6daf913f542fc532399ea076b8e63_9881302.mp4",
+      "filepath": "downloads\\mightyniku\\e1a6daf913f542fc532399ea076b8e63_9881302.mp4",
+      "size": 3023147,
+      "size_mb": 2.88,
+      "modified_time": "2025-09-12T07:39:53.092507",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "e965a6e961245a88e5ce0b0515cf33c0_12844658.mp4",
+      "filepath": "downloads\\mightyniku\\e965a6e961245a88e5ce0b0515cf33c0_12844658.mp4",
+      "size": 7855143,
+      "size_mb": 7.49,
+      "modified_time": "2025-09-12T07:38:58.728678",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "ec45e6f40888dc87d5f3f331fc1ad2a3_12844632.mp4",
+      "filepath": "downloads\\mightyniku\\ec45e6f40888dc87d5f3f331fc1ad2a3_12844632.mp4",
+      "size": 9937639,
+      "size_mb": 9.48,
+      "modified_time": "2025-09-12T07:37:46.403528",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "ec94d6813a156840ee6d9b1f0f6755ce_13306941.mp4",
+      "filepath": "downloads\\mightyniku\\ec94d6813a156840ee6d9b1f0f6755ce_13306941.mp4",
+      "size": 6917220,
+      "size_mb": 6.6,
+      "modified_time": "2025-09-12T07:38:15.541224",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "ef4d0392f1a7ffb1f7673ac8f33a6fde_12516819.mp4",
+      "filepath": "downloads\\mightyniku\\ef4d0392f1a7ffb1f7673ac8f33a6fde_12516819.mp4",
+      "size": 5224624,
+      "size_mb": 4.98,
+      "modified_time": "2025-09-12T07:40:21.761561",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "efda75ff95960bdce217772e9bae18e9_12516762.mp4",
+      "filepath": "downloads\\mightyniku\\efda75ff95960bdce217772e9bae18e9_12516762.mp4",
+      "size": 6754814,
+      "size_mb": 6.44,
+      "modified_time": "2025-09-12T07:39:41.942560",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "f40e53219808a8fc3812e18f11cda278_12516667.mp4",
+      "filepath": "downloads\\mightyniku\\f40e53219808a8fc3812e18f11cda278_12516667.mp4",
+      "size": 18505113,
+      "size_mb": 17.65,
+      "modified_time": "2025-09-12T07:40:00.062495",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "fee6b0a6d2228750979be9cdf9211d0e_10322736.mp4",
+      "filepath": "downloads\\mightyniku\\fee6b0a6d2228750979be9cdf9211d0e_10322736.mp4",
+      "size": 3467316,
+      "size_mb": 3.31,
+      "modified_time": "2025-09-12T07:40:10.766375",
+      "directory": "根目录",
+      "extension": ".mp4"
+    },
+    {
+      "filename": "ffdea33d855aed84fa4506acf2672116_13267494.mp4",
+      "filepath": "downloads\\mightyniku\\ffdea33d855aed84fa4506acf2672116_13267494.mp4",
+      "size": 19031997,
+      "size_mb": 18.15,
+      "modified_time": "2025-09-12T07:38:34.639739",
+      "directory": "根目录",
+      "extension": ".mp4"
+    }
+  ]
+}
